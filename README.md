@@ -16,11 +16,11 @@ ls
 
 ```
 
-**Untuk jalankan bisa pilih satu
+**Untuk jalankan bisa pilih satu**
 ```
 php fb.py
 ```
-atau
+**atau**
 
 ```
 hack.py
